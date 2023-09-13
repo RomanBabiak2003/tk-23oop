@@ -20,7 +20,7 @@
 ### Створення гіперпосилань(лінки)
 > [посилання на it college у Львові](https://itcollege.lviv.ua/ "Це просто відображення при наведення курсора на гіперпосилання")
 
->[вернутисm на головну сторінку репозиторію ](../README.md "переходимо до readme" )
+>[вернутисm на головну сторінку репозиторію](../README.md "переходимо до readme" )
 ---
 
 ### Робота з скріншотами 
@@ -28,3 +28,38 @@
 
 - ![Вставляємо картину з прямим посиланням на репозиторій](https://github.com/RomanBabiak2003/tk-23oop/raw/main/init/logo-lit.jpg "Не забуваємо замінити blob на raw")
 ---
+
+
+### Робота з частинами коду
+
+| Python       | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | ```python``` | $1600 |
+
+- Якщо вставляти з допомогою підсвітки синтаксису, код буде мати наступний вигляд:
+1. Код написано на Python
+ ```python    
+  def hello_world():
+   print("Hello, world!")
+ ```
+2. Код написано на Java
+
+ ```Java
+  ublic static void maim () {
+  ystem.out.println("Hello, world!");
+  
+ ```
+
+
+### Робота з таблицями 
+
+| Навчальний заклад  | Група  | Ім'я  |
+| :---: | ---|---|
+| ![будь який текст ](logo-lit.jpg "IT college Lviv" )  |**Тк-330** |__Roman__|
+|![](завантаження.jpg " Національний Університет Львівстка політехніка") | Tk-220  | Roman |
+
+---
+
+This line is also a separate paragraph, but...
+
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
