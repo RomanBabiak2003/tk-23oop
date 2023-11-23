@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Streetezi\Desktop\Мої роботи\Навчання\it.коледж\it.collede-Taras_Kudryk\Prototipe\lab_04\my_env"
+VIRTUAL_ENV="E:\python\tk-23oop\tk-23oop\04_laba\my_env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
