@@ -23,10 +23,11 @@
 
 ## Перелік лабораторних робіт
 
-[Вступ, робота з MarkDowninit](init/README.md) :pig2:
-1. [Лабораторна робота №1](01_laba/README.md)  :pig2: 
-2. [Лабораторна робота №2](02_laba/README.md)  :pig2: 
-3. [Лабораторна робота №3](03_laba/README.md)  :pig2: 
-4. [Лабораторна робота №3](04_laba/README.md)  :pig2:
+[Вступ, робота з MarkDowninit](init/README.md)                         :pig2:
+1. [Лабораторна робота №1](01_laba/README.md)                          :pig2: 
+2. [Лабораторна робота №2](02_laba/README.md)                          :pig2: 
+3. [Лабораторна робота №3](03_laba/README.md)                          :pig2: 
+4. [Лабораторна робота №4](04_laba/README.md)                          :pig2:
+5. [Лабораторна робота №5](https://github.com/RomanBabiak2003/tk-23oop):pig2:
 
 ---
